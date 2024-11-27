@@ -18,11 +18,25 @@ namespace Sextoapp.Repository
 
         public void Atualizar(Cliente cliente)
         {
+            
+            
             throw new NotImplementedException();
         }
 
         public void Cadastrar(Cliente cliente)
         {
+            string Situacao = SituacaoConstant.Ativo;
+
+            using (var conexao = new MySqlConnection(_conexaoMySQL)) 
+            { 
+                conexao.Open();
+
+                MySqlCommand cmd = new MySqlCommand("insert into Cliente(Nome, Nascimento, SExo, CPF, Telefone, Email, Senha, Situacao) " + " values (@Nome, @Nascimento, @Sexo, @CPF, @Celular, @Email, @Senha, @Situacao)", conexao); 
+            }
+            
+            
+            
+            
             throw new NotImplementedException();
         }
 
@@ -70,6 +84,41 @@ namespace Sextoapp.Repository
 
         public IEnumerable<Cliente> ObterTodosClientes()
         {
+            List<Cliente> cliList = new List<Cliente>();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("SELECT * FROM CLIENTE", conexao);
+                
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                
+                DataTable dt = new DataTable();
+
+                da.Fill(dt);
+
+                conexao.Close();
+
+                foreach (DataRow dr in dt.Rows)
+                {
+                    cliList.Add(
+                        new Cliente
+                        {
+                            id = Convert.ToInt32(dr["id"]),
+                            Nome = (string)(dr["Nome"]),
+                            Nascimento = Convert.ToDateTime(dr["Nascimento"]),
+                            Sexo = Convert.ToString(dr["Sexo"]),
+                            cpf = Convert.ToString(dr["CPF"]),
+                            Celular = Convert.ToString(dr["Celular"]),
+                            Email = Convert.ToString(dr["Email"]),
+                            Senha = Convert.ToString(dr["Senha"]),
+                            situacao = Convert.ToString(dr["Situacao"])
+                        });
+                }
+                return cliList;
+
+
+            }
+
             throw new NotImplementedException();
         }
     }
