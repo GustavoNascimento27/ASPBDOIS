@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sextoapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48a375173b707a5e50d20dc4b231c9eb480c4193")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sextoapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sextoapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

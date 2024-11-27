@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Sextoapp",
-    "\\Sextoapp\\Models"
+    "\\Sextoapp\\Models",
+    "\\Sextoapp\\Repository"
   ],
-  "SelectedNode": "\\Sextoapp\\Models\\Cliente.cs",
+  "SelectedNode": "\\Sextoapp\\Repository\\ClienteRepository.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\sextoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:sextoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\models\\constant\\colaboradortipoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:models\\constant\\colaboradortipoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\models\\constant\\situacaoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:models\\constant\\situacaoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma a\\gustavo e isaque\\aspbddois\\sextoapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C90ADE0-E681-48BC-A08D-BB57D0B0BF25}|Sextoapp.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +55,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Repository\\ClienteRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:30:17.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Contract\\IClienteRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeToolTip": "Repository\\Contract\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:26:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sextoapp",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Sextoapp.csproj",
+              "RelativeDocumentMoniker": "Sextoapp.csproj",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Sextoapp.csproj",
+              "RelativeToolTip": "Sextoapp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T11:25:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SituacaoConstant.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Constant\\SituacaoConstant.cs",
+              "RelativeDocumentMoniker": "Models\\Constant\\SituacaoConstant.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Constant\\SituacaoConstant.cs",
+              "RelativeToolTip": "Models\\Constant\\SituacaoConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:21:32.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorTipoConstant.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Constant\\ColaboradorTipoConstant.cs",
+              "RelativeDocumentMoniker": "Models\\Constant\\ColaboradorTipoConstant.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Constant\\ColaboradorTipoConstant.cs",
+              "RelativeToolTip": "Models\\Constant\\ColaboradorTipoConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:20:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Colaborador.cs",
+              "RelativeToolTip": "Models\\Colaborador.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
               "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwCkAAAAsAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T11:16:03.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -51,11 +153,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-24T11:13:51.117Z"
+              "WhenOpened": "2024-10-24T11:13:51.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -63,11 +166,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:13:45.685Z"
+              "WhenOpened": "2024-10-24T11:13:45.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma A\\Gustavo e Isaque\\ASPBDDOIS\\Sextoapp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -75,7 +179,8 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:13:20.519Z"
+              "WhenOpened": "2024-10-24T11:13:20.519Z",
+              "EditorCaption": ""
             }
           ]
         }
